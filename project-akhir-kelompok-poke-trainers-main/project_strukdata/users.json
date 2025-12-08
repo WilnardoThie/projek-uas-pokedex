@@ -1,0 +1,67 @@
+{
+    "relaxaj06@gmail.com": {
+        "username": "Will",
+        "password": "$2b$12$Ix11ZlxmaO6BURj0qRn4hueMK191ShYUJQqxhQDx1vRXpJtgyPIXK",
+        "profile": {
+            "Nama": "Will",
+            "Email": "relaxaj06@gmail.com",
+            "Deskripsi": "Saya adalah legenda pokemon"
+        },
+        "saved_deck": [],
+        "saved_teams": {},
+        "search_history": []
+    },
+    "unknown@gmail.com": {
+        "username": "unknown",
+        "password": "$2b$12$Jajbn/fYmPGGqVn5It8p/u7aL291jKm46SZ3B3TOYRhw4UUyKOEYK",
+        "profile": {
+            "Nama": "unknown",
+            "Email": "unknown@gmail.com",
+            "Deskripsi": ""
+        },
+        "saved_deck": [
+            "Milotic",
+            "Charizard",
+            "Arcanine",
+            "Whimsicott",
+            "Garchomp",
+            "Venusaur"
+        ],
+        "saved_teams": {},
+        "search_history": [
+            "Glimmora",
+            "Gholdengo",
+            "Charizard",
+            "Venusaur",
+            "Whimsicott",
+            "Garchomp",
+            "Arcanine",
+            "Milotic"
+        ]
+    },
+    "notfound@gmail.com": {
+        "username": "notfound",
+        "password": "$2b$12$bNcKhf.a8veNNjvHKPK8WeJe8lHr57nWgXRMOZhkbTVLPxrnvgNdK",
+        "profile": {
+            "Nama": "notfound",
+            "Email": "notfound@gmail.com",
+            "Deskripsi": ""
+        },
+        "saved_deck": [
+            "Ogerpon",
+            "Rotom-Wash",
+            "Whimsicott",
+            "Dragapult",
+            "Tyranitar"
+        ],
+        "saved_teams": {},
+        "search_history": [
+            "pikachu",
+            "Whimsicott",
+            "Dragapult",
+            "Tyranitar",
+            "Rotom-Wash",
+            "Ogerpon"
+        ]
+    }
+}
