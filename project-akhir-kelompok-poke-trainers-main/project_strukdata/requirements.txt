@@ -1,6 +1,8 @@
 streamlit
+jason
 pandas
-numpy
-Pillow
+bcrpt
+regex
 requests
-plotly
+random
+os
